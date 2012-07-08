@@ -10,5 +10,5 @@ distutils.core.setup(
     author="Lara Maia",
     author_email="angel@mail.com",
     url="https://github.com/laracraft93/notipy/",
-    scripts=["code/notipy.py"]
+    scripts=["notipy"]
     )
